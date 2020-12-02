@@ -1,5 +1,5 @@
-name: Git Sync Action
-author: Wei He <github@weispot.com>
+name: Git Sync Action Alternate
+author: James Homer <hello@homerjam.es>
 description: 🔃 Sync between two independent repositories
 branding:
   icon: 'git-branch'
