@@ -1,7 +1,7 @@
 FROM alpine
 
-LABEL "repository"="http://github.com/homerjam/git-sync"
-LABEL "homepage"="http://github.com/homerjam/git-sync"
+LABEL "repository"="http://github.com/homerjam/git-sync-alternate"
+LABEL "homepage"="http://github.com/homerjam/git-sync-alternate"
 LABEL "maintainer"="James Homer <hello@homerjam.es>"
 
 RUN apk add --no-cache git openssh-client && \
