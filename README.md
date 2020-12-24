@@ -41,7 +41,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: repo-sync
-        uses: wei/git-sync@v2
+        uses: homerjam/git-sync-alternate@master
         with:
           source_repo: "username/repository"
           destination_repo: "git@github.com:org/repository.git"
